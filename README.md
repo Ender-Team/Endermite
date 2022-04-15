@@ -2,6 +2,8 @@
 
 Endermite is a project aims for high performance standalone Minecraft server.
 
+English | [简体中文](//github.com/Ender-Team/Endermite/blob/main/README_zh-CN.md)
+
 ## Features
 
 - Written with C++ 23, providing extreme performance closest to the limit

@@ -2,6 +2,8 @@
 
 Endermite 是一个致力于实现高性能独立 Minecraft 服务器的项目。
 
+[English](//github.com/Ender-Team/Endermite/blob/main/README.md) | 简体中文
+
 ## 特点
 
 - 使用 C++ 23 编写，提供最接近极限的性能
