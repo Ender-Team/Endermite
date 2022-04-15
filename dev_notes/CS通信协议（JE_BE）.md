@@ -1,0 +1,1 @@
+这个WIKI详细记载了两种版本的MC的通信协议：https://wiki.vg/Main_Page
