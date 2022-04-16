@@ -6,7 +6,7 @@ English | [简体中文](//github.com/Ender-Team/Endermite/blob/main/README_zh-C
 
 ## Features
 
-- Written with C++ 23, providing extreme performance closest to the limit
+- Written with C++ 23, providing blade edging performance
 - Come with full multi-threading mechanics, maximize CPU efficient
 - Manage memory totally manually, maximize the usage of RAM resources
 - Improve world storing format, enhance disk efficient
@@ -48,7 +48,7 @@ English | [简体中文](//github.com/Ender-Team/Endermite/blob/main/README_zh-C
 - Provide supported Docker images
 - Implement official built-in commands
 - QQ/Discord bots
-- Web GPS map
+- Web satellite map
 - Provide complete API and support writing third-party extensions and plugins using JavaScript/TypeScript
 - Implement player operation replaying feature
 - Integrated basic functions of WorldEdit
